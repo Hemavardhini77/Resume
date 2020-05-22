@@ -23,3 +23,24 @@ Name|Roll Number
 ---|---
 vardhini|14
 varshini|15
+
+
+---
+Welcome to the session
+---
+
+--- python
+def iseven(num):
+  if num%2==0 :
+     return True
+  else :
+      return False
+---
+
+
+:joy:
+
+
+
+
+
